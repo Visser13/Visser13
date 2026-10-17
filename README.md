@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Visser13
-- 👀 I’m interested in learning how to program in C# to become a backend web dev. I'm also interested in artifical intelligence.
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on C# project (I'm a beginner).
-- 📫 How to reach me ... 
+I'm a software developer interested in building practical applications, automation tools, and well-structured systems.
 
-<!---
-Visser13/Visser13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My projects explore Python, C, SQL, database design, application architecture, and API integration. I enjoy understanding how software components fit together, from data storage and business logic to application interfaces and communication between systems.
+
+I'm particularly interested in maintainable code, reusable components, and designs that can evolve as projects grow. My repositories document my learning, experiments, and progress as I develop my software engineering skills.
+
+Always learning, building, and improving — one project at a time.
